@@ -1,0 +1,3 @@
+#GIT
+Stable branches must have the same change ID as the review released in feature branch
+Changing change ID of a review with --amend will always create a new review and does not create a patchset
